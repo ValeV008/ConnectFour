@@ -1,0 +1,27 @@
+var struct_fts5_extension_api =
+[
+    [ "iVersion", "struct_fts5_extension_api.html#af9c8f09c2e6f1373e6bce57ec9861682", null ],
+    [ "xColumnCount", "struct_fts5_extension_api.html#a427409c50da4e179c8f2d36b22a4ba21", null ],
+    [ "xColumnLocale", "struct_fts5_extension_api.html#ac054a1f4c5e52934564499b6948ce254", null ],
+    [ "xColumnSize", "struct_fts5_extension_api.html#aefe6eb4685546e58f056a61da39a2bcb", null ],
+    [ "xColumnText", "struct_fts5_extension_api.html#a03c7fcd31a751fc34d25e5288045f91d", null ],
+    [ "xColumnTotalSize", "struct_fts5_extension_api.html#a096e79406ae03df9796a2082d0ac8269", null ],
+    [ "xGetAuxdata", "struct_fts5_extension_api.html#ae77e066f5eba264ba0dc8701fc59264d", null ],
+    [ "xInst", "struct_fts5_extension_api.html#a85e17f20db782b20b503f1d803a47a9e", null ],
+    [ "xInstCount", "struct_fts5_extension_api.html#af57aff7a8aa8402bb37a77892c4daf45", null ],
+    [ "xInstToken", "struct_fts5_extension_api.html#ac80602ff51dfd490573bfd893b74c4ac", null ],
+    [ "xPhraseCount", "struct_fts5_extension_api.html#a3ba0207080a9ca498625eefcc120bf1e", null ],
+    [ "xPhraseFirst", "struct_fts5_extension_api.html#ae2584a3afa2a70504847600e609d43ad", null ],
+    [ "xPhraseFirstColumn", "struct_fts5_extension_api.html#ac57daf9650e3f0c25432bbe348bc124f", null ],
+    [ "xPhraseNext", "struct_fts5_extension_api.html#ac46faf7ccccf6a02454069b296dc1877", null ],
+    [ "xPhraseNextColumn", "struct_fts5_extension_api.html#ae699a91c958cbac92a2ae8000670ef89", null ],
+    [ "xPhraseSize", "struct_fts5_extension_api.html#aeda6faa66f47f9116c9ceba882aaedd2", null ],
+    [ "xQueryPhrase", "struct_fts5_extension_api.html#a8f6dcf0a1d246b235f98f5bbb214e28d", null ],
+    [ "xQueryToken", "struct_fts5_extension_api.html#adf28efb571da70283c7e67bb25a7a114", null ],
+    [ "xRowCount", "struct_fts5_extension_api.html#ae1eb7ad1d3c131a09376134ecc099568", null ],
+    [ "xRowid", "struct_fts5_extension_api.html#acc4336c9f7bf39defa1acbdbf5df0020", null ],
+    [ "xSetAuxdata", "struct_fts5_extension_api.html#a0f59a6c383a478ed95efdb7e4a95de80", null ],
+    [ "xTokenize", "struct_fts5_extension_api.html#a670af0d7715f69834376f8df187dcf30", null ],
+    [ "xTokenize_v2", "struct_fts5_extension_api.html#a1f9830603f2c43e2729fec8a8cd5772f", null ],
+    [ "xUserData", "struct_fts5_extension_api.html#a68965aae99f5c4b501c6c934b5e4d283", null ]
+];
